@@ -1,0 +1,125 @@
+{
+	"measures": [
+		 {
+			"measure": "Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.",
+			"keywords": ["regularly clean your hands with an alcohol-based", "wash them with soap and water"]
+		 },
+		 {
+		 	"measure": "Maintain at least 1 metre (3 feet) distance between yourself and others.",
+		 	"keywords": ["maintain at least", "1 metre distance between yourself and others"]
+		 },
+		 {
+		 	"measure": "Avoid going to crowded places.",
+		 	"keywords": ["crowded places"]
+		 },
+		 {
+		 	"measure": "Avoid touching eyes, nose and mouth.",
+		 	"keywords": ["avoid touching eyes, nose and mouth"]
+		 },
+		 {
+		 	"measure": "Make sure you, and the people around you, follow good respiratory hygiene.",
+		 	"keywords": ["follow good respiratory hygiene"]
+		 },
+		 {
+		 	"measure": "Stay home and self-isolate even with minor symptoms such as cough, headache, mild fever, until you recover. Have someone bring you supplies. If you need to leave your house, wear a mask to avoid infecting others. ",
+		 	"keywords": ["Stay home and self-isolate even with minor symptoms", "cough, headache, mild fever", "wear a mask"]
+		 },
+		 {
+		 	"measure": "If you have a fever, cough and difficulty breathing, seek medical attention, but call by telephone in advance if possible and follow the directions of your local health authority.",
+		 	"keywords": ["have fever, cough and difficulty breathing", "seek medical attention", "call by telephone in advance"]
+		 },
+		 {
+		 	"measure": "Keep up to date on the latest information from trusted sources, such as WHO or your local and national health authorities.",
+		 	"keywords": ["keep up to date on the latest information from trusted sources"]
+		 },
+		 {
+		 	"measure": "Keep alcohol-based hand sanitizers out of children's reach. Teach them how to apply the sanitizer and monitor its use.",
+		 	"keywords": ["Keep alcohol-based hand sanitizers out of children's reach"]
+		 },
+		 {
+		 	"measure": "Apply a coin-sized amount of sanitizer on your hands. There is no need to use a large amount of the product.",
+		 	"keywords": ["Apply a coin-sized amount of sanitizer on your hands"]
+		 },
+		 {
+		 	"measure": "Avoid touching your eyes, mouth and nose immediately after using an alcohol-based hand sanitizer, as it can cause irritation.",
+		 	"keywords": ["avoid touching your eyes, mouth and nose immediately after using an alcohol-based hand sanitizer"]
+		 },
+		 {
+		 	"measure": "Hand sanitizers recommended to protect against COVID-19 are alcohol-based and therefore can be flammable. Do not use before handling fire or cooking.",
+		 	"keywords": ["Do not use before handling fire or cooking", "Hand sanitizers recommended to protect against COVID-19 are alcohol-based and therefore can be flammable"]
+		 },
+		 {
+		 	"measure": "Under no circumstance, drink or let children swallow an alcohol-based hand sanitizer. It can be poisonous.",
+		 	"keywords": ["Under no circumstance, drink or let children swallow an alcohol-based hand sanitizer"]
+		 },
+		 {
+		 	"measure": "Remember that washing your hands with soap under running water is also effective against COVID-19.",
+		 	"keywords": ["washing your hands with soap under running water"]
+		 },
+		 {
+		 	"measure": "Put on nose mask when you need to go out of your house.",
+		 	"keywords": ["put on nose mask"]
+		 },
+		 {
+		 	"measure": "Stay at home if you don't have anything to do in town.",
+		 	"keywords": ["stay at home"]
+		 },
+		 {
+		 	"measure": "Cover your mouth and nose with flexed elbow or tissue when coughing and sneezing. Throw tissue into closed bin or dustbin immediately after use.",
+		 	"keywords": ["cover your mouth and nose with flexed elbow or tissue when coughing and sneezing", "throw tissue into closed bin or dustbin immediately after use"]
+		 },
+		 {
+		 	"measure": "Clean hands with alcohol-based hand sanitizers or wash your hands with soap under running water after coughing or sneezing and when caring for the sick. ",
+		 	"keywords": ["wash your hands with soap under running water after coughing or sneezing", " when caring for the sick"]
+		 },
+		 {
+		 	"measure": "Avoid shaking hands with people. Greet people with a wave, a nod or a bow.",
+		 	"keywords": ["avoid shaking hands with people", "greet people with a wave, a nod or a bow"]
+		 },
+		 {
+		 	"measure": "Avoid hugging others.",
+		 	"keywords": ["avoid", "hugging others"]
+		 },
+		 {
+		 	"measure": "Wash fruits and vegetables thoroughly with clean water, especially if you eat them raw.",
+		 	"keywords": ["Wash fruits and vegetables thoroughly with clean water", "eat them raw"]
+		 },
+		 {
+		 	"measure": "Do your laundry as you normally would, using detergent or soap.",
+		 	"keywords": ["laundry as you would using detergent or soap."]
+		 },
+		 {
+		 	"measure": "Once your laundry is dry, make sure you clean your hands before handling and storing your clothes, towel and bed linen.",
+		 	"keywords": ["laundry is dry"]
+		 },
+		 {
+		 	"measure": "When grocery shopping, keep at least 1-metre distance from others and avoid touching your eyes, mouth and nose.",
+		 	"keywords": ["when grocery shopping, keep at least 1-metre distance from others"]
+		 },
+		 {
+		 	"measure": "If possible, sanitize the handles of shopping trolleys or baskets before shopping.",
+		 	"keywords": ["sanitize the handles of shopping trolleys or baskets before shopping"]
+		 },
+		 {
+		 	"measure": "Once home, wash your hands thoroughly and also after handling and storing your purchased products.",
+		 	"keywords": ["handling and storing purchased products"]
+		 },
+		 {
+		 	"measure": "Wash your hands regularly and thoroughly after touching any frequently-touched surface or object, including coins, banknotes, money or the ATM machine.",
+		 	"keywords": ["touching any frequently-touched surface or object", "money, coins, banknotes or the ATM machine"]
+		 },
+		 {
+		 	"measure": "Observe social distance.",
+		 	"keywords": ["social distance"]
+		 },
+		 {
+		 	"measure": "Immediately wash your clothes when you return from a journey or reach your destination when you travel.",
+		 	"keywords": ["wash your clothes when you return from a journey", "reach destination when travel"]
+		 },
+		 {
+		 	"measure": "Use hand sanitizers before entering a car and after you get down or alight",
+		 	"keywords": ["Use hand sanitizers before entering a car", "after you get down or alight"]
+		 }
+
+	]
+}
