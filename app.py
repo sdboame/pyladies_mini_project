@@ -57,7 +57,7 @@ while not re.compile(r'^[A-Za-z][A-Za-z\'\-]+([\ A-Za-z][A-Za-z\'\-]+)*').match(
 # Welcoming user
 print("\nHello," + user + "\n")
 intro = """
-Welcome to Covapp
+Welcome to CovApp
 This app encourages users to observe the protocols of COVID-19 in saving themselves and those around them.
 
 Below are the rules regarding this app...
